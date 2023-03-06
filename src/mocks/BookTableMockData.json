@@ -1,0 +1,507 @@
+{
+    "tableData": [{
+            "SNo": "1",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "2",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "978152910819",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "3",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "4",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "5",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "6",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "7",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "8",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "9",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "10",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "11",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "12",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "13",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "14",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "15",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "16",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "17",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "18",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "19",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "20",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "21",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "22",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "23",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "24",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "25",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "26",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "27",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        },
+        {
+            "SNo": "28",
+            "Image": "https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051__340.jpg",
+            "Title": "Book",
+            "ISBN": "9781529108149",
+            "ISBNAddedDate": "dnskjs",
+            "ISBNUpdatedDate": "nfdkjbksjdb",
+            "MRP": "₹899.00",
+            "Price": [{
+                "Condition": "NEW",
+                "Price": "899.00"
+            }],
+            "Stocks": [{
+                "Condition": "NEW",
+                "Location": "R7,C2,S5,B2",
+                "Quantity": "1"
+            }]
+        }
+    ]
+}
